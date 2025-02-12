@@ -1,6 +1,5 @@
-Start by running the MATLAB code based on your design specifications. 
-Remember to change the gain (Nps) based on your converter topology (we divided the whole equation by 0.5 to achieve our desired gain.
-Continue to change the specifications until you can achieve the desired gain at Resonant Frequency (Fr). 
-This can be verified using the Normalized Frequency vs. Gain Graph.
-After you get the output values (Lr, Lm, Cr, ..etc.), verify that they are reasonable, if not multiply the Lr and Lm by some value (in my case it was 10).
-Then run PSIM or any other simulation tool to verfiy the operation of the converter.
+[1] Start by running the MATLAB code based on your design specifications. 
+[2] Remember to change the gain (Nps) based on your converter topology (we divided the whole equation by 0.5 to achieve our desired gain.
+[3] Continue to change the specifications until you can achieve the desired gain at Resonant Frequency (Fr). This can be verified using the Normalized Frequency vs. Gain Graph.
+[4] After you get the output values (Lr, Lm, Cr, ..etc.), verify that they are reasonable, if not multiply the Lr and Lm by some value (in my case it was 10).
+[5] Then run PSIM or any other simulation tool to verfiy the operation of the converter.
