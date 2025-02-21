@@ -1,1 +1,6 @@
-Hello
+Design specifications:
+
+Vin = 23 V
+Vout = 22.2 V (+/- 2 V)
+Iout Max = 15 A
+Pout Max = 330 W
